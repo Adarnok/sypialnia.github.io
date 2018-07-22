@@ -1,0 +1,23 @@
+.jumpotron h1, .jumbotron p, .jumbotron hr, .jumbotron a {
+  margin: 30px; }
+
+.jumbotron hr {
+  background-color: #fff; }
+
+div.jumbotron {
+  color: #fff;
+  text-align: center;
+  border-radius: 0;
+  background: url("../img/lozko-z-pojemnikiem-veronica-140x200-czarne.jpg") center/cover no-repeat;  
+}
+div > p.lead{
+  background-color: #000;
+  opacity: 0.3;
+  /* box-shadow: 10px #000; */
+  border-radius: 5px;
+} 
+
+section {
+  padding: 30px; }
+
+/*# sourceMappingURL=style.css.map */
